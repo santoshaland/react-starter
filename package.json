@@ -1,0 +1,31 @@
+{
+  "name": "namaste_react_code",
+  "version": "1.0.0",
+  "description": "React App",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshaland/react-starter.git"
+  },
+  "keywords": [],
+  "author": "Santosh Aland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshaland/react-starter/issues"
+  },
+  "homepage": "https://github.com/santoshaland/react-starter#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
