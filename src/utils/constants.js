@@ -39,3 +39,6 @@ export const STAR_LOGO = (
     </defs>
   </svg>
 );
+
+export const MENU_API =
+  "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=17.6537085&lng=75.9258542&restaurantId=";
